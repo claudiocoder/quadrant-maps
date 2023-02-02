@@ -2,5 +2,5 @@
 
 A simple way to calculate quadrats with GeoLib and Leaflet
 
-![map](./img/quadrant.png)
+<img width="600" src="https://raw.githubusercontent.com/claudiocoder/quadrant-maps/main/img/quadrant.PNG" alt="Leaflet" />
 *One kilometer distance quadrant*
